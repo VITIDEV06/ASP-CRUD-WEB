@@ -550,7 +550,7 @@ Luego abrir `http://localhost:8080`. La ruta de `MSBuild.exe` depende de la edic
 
 | Rol | Nombre |
 |---|---|
-| **Autor** | *Agrega aquí tu nombre y tu perfil de GitHub* |
+| **Autor** | *Victor Montes VITIDEV* |
 
 **Recursos de terceros**
 
