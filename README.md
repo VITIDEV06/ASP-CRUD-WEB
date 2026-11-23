@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/assets/banner.png" alt="ASP CRUD WEB - Sistema de gestión de estudiantes" width="100%">
+
 # ASP CRUD WEB
 
 ### Sistema de gestión de estudiantes con auditoría automática
