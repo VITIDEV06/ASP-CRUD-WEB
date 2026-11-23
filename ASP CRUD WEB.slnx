@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/BaseDeDatos/">
+    <File Path="BaseDeDatos/crud_web.sql" />
+  </Folder>
+  <Folder Name="/Documentos/">
+    <File Path=".gitignore" />
+    <File Path=".gitattributes" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ASP CRUD WEB/ASP CRUD WEB.csproj" Id="83e67982-f80c-4848-a70b-a26c5637a536" />
+</Solution>

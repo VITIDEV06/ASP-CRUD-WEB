@@ -1,0 +1,28 @@
+# ===== Credenciales (NUNCA subir) =====
+# Cadena de conexión real con la contraseña de MySQL.
+# En su lugar se versiona ConnectionStrings.example.config.
+ConnectionStrings.config
+.env
+.env.*
+*.pfx
+*.publishsettings
+**/Properties/PublishProfiles/
+
+# ===== Visual Studio (configuración personal y caché) =====
+.vs/
+*.user
+*.suo
+
+# ===== Compilación (se vuelve a generar al compilar) =====
+[Bb]in/
+[Oo]bj/
+packages/
+*.log
+
+# ===== Configuración local del asistente =====
+.claude/
+
+# ===== Sistema operativo =====
+Thumbs.db
+Desktop.ini
+.DS_Store
